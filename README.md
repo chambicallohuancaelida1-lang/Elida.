@@ -95,9 +95,7 @@ d="packageLicense" class="cc cc-by-sa">
 <<img width="1020" height="421" alt="Captura_de_pantalla_(32)" src="https://github.com/user-attachments/assets/47c581ae-0b5b-4399-93b7-9789b3e47841" />
 nav class="p<img width="1195" height="421" alt="Captura_de_pantalla_(31)" src="https://github.com/user-attachments/assets/9a6369a4-247d-4ebf-a0cd-5d47a507f5a6" />
 agination nopr<img width="1321" height="625" alt="Captura_de_pantalla_(35)" src="https://github.com/user-attachments/assets/98040c8d-1b22-4923-94b7-adf52b952606" />
-t"><img width="2212" height="2020" alt="Animales_terrestres_y_acuticosdescarga_3" src="https://github.com/user-attachments/assets/ef8ef271-bfb7-472d-9f62-d2784717ca82" />
-
-<a href="caratula.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+t"><img width="2212" height="2020" alt="Animales_terrestres_y_acuticosdescarga_3" src="https://github.com/user-attachments/assets/ef8ef271-bfb7-472d-9f62-d2784717ca82" /><a href="caratula.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div><img width="1347" height="550" alt="Captura_de_pantalla_(33)" src="https://github.com/user-attachments/assets/6c3679a7-aaea-4b5b-8c96-9e94f6596953" />
 
